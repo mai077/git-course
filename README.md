@@ -1,2 +1,2 @@
-# git-course
+# Our git-course
 git-course
